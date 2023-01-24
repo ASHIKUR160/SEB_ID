@@ -1,0 +1,38 @@
+# q Ape 1
+
+
+
+{
+  "name": "Q Ape 7868",
+  "description": "Q APE: We are from the UK, 23/7/10 we will be visiting, everyone we get a Q Ape from will be given a NFT by a meeting from the Bored Ape Yacht Club of his choice,",
+  "image": "ipfs://QmYfVyoMrmD8a5pzVhma37RLKY1dEV6Y1vhXPpkudwxNXY/1.png", 
+
+  "attributes": [ 
+   		{
+        "trait_type": "Background",
+        "value": "#33CCFF"
+       },
+       {
+        "trait_type": "HAIR",
+        "value": "#FFCC33"
+       },
+       {
+        "trait_type": "SHIRT",
+        "value": "#3366FF"
+       },
+       {
+        "trait_type": "spay",
+        "value": "#33FFFF"
+       },
+       {
+        "trait_type": "body",
+        "value": "#CC00FF"
+       },
+   		{
+   			"display_type": "date",
+   			"trait_type": "Created on",
+   			"value": 1669613400
+   		}
+   		
+   ]
+}
